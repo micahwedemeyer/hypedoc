@@ -1,4 +1,4 @@
-# Hype Doc — Matt Wedemeyer
+# Hype Doc — Micah Wedemeyer
 
 > Running record of accomplishments, impact, and wins. Updated weekly.
 
